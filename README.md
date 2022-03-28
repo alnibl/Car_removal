@@ -1,8 +1,9 @@
 # car_removal
 
 ##Installation libraries
-pip install -U albumentations --no-binary qudida,albumentations
 
+'''
+pip install -U albumentations --no-binary qudida,albumentations
 pip install -U git+https://github.com/albumentations-team/albumentations
 
 from keras.models import Sequential, Model
@@ -37,3 +38,4 @@ import random
 import time
 
 from tensorflow.python.platform.tf_logging import set_verbosity, FATAL
+'''
