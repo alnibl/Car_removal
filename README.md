@@ -1,6 +1,4 @@
-# car_removal
-
-The neural network removes the car
+# The neural network removes the car
 
 ## Installation libraries
 
