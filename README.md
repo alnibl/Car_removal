@@ -2,6 +2,7 @@
 
 ##Installation libraries
 pip install -U albumentations --no-binary qudida,albumentations
+
 pip install -U git+https://github.com/albumentations-team/albumentations
 
 from keras.models import Sequential, Model
